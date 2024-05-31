@@ -4,13 +4,13 @@
 
 ## About Me
 
-- 🎓 I'm currently studying at [近畿大学大学院/総合理工学研究科エレクトロニクス系工学専攻]([https://www.youruniversitywebsite.com](https://www.kindai.ac.jp/graduate/)).
-- 📚 I am a member of the [大規模情報処理システム研究室]([https://www.yourresearchlabwebsite.com](https://www.mizlab.net/%E3%83%9B%E3%83%BC%E3%83%A0)).
+- 🎓 I'm currently studying at [近畿大学大学院/総合理工学研究科エレクトロニクス系工学専攻](https://www.kindai.ac.jp/graduate/).
+- 📚 I am a member of the [大規模情報処理システム研究室](https://www.mizlab.net/%E3%83%9B%E3%83%BC%E3%83%A0)).
 - 💻 ネットワークxAIの領域で研究を行っています。
 
 ## Projects
 
-- 📄 **Paper**: [An Efficient Approach for Training Time Minimization in Distributed Split Neural Network]([link-to-paper](https://ieeexplore.ieee.org/document/10315304))
+- 📄 **Paper**: [An Efficient Approach for Training Time Minimization in Distributed Split Neural Network](https://ieeexplore.ieee.org/document/10315304)
 - 🛠️ **Tech Stack**: Python, PyTorch
 
 ## Skills
