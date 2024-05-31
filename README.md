@@ -1,4 +1,4 @@
-# Hello, I'm 山本瑛悟 👋
+# Hello, I'm Eigo Yamamoto 👋
 
 ![GitHub followers](https://img.shields.io/github/followers/yamamotoeigo?style=social) ![GitHub stars](https://img.shields.io/github/stars/yamamotoeigo?style=social)
 
