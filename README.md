@@ -5,7 +5,7 @@
 ## About Me
 
 - 🎓 I'm currently studying at [近畿大学大学院/総合理工学研究科エレクトロニクス系工学専攻](https://www.kindai.ac.jp/graduate/).
-- 📚 I am a member of the [大規模情報処理システム研究室](https://www.mizlab.net/%E3%83%9B%E3%83%BC%E3%83%A0)).
+- 📚 I am a member of the [大規模情報処理システム研究室](https://www.mizlab.net/%E3%83%9B%E3%83%BC%E3%83%A0).
 - 💻 ネットワークxAIの領域で研究を行っています。
 
 ## Projects
