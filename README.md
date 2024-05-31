@@ -27,12 +27,5 @@
 
 ![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=yamamotoeigo&show_icons=true&theme=radical)
 
-## Top Languages
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yamamotoeigo&layout=compact&theme=radical)
-
-## Recent Activity
-
 <!--START_SECTION:activity-->
 <!--END_SECTION:activity-->
-
