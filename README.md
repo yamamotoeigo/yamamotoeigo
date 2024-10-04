@@ -13,6 +13,9 @@
 - 📄 **Paper**: [An Efficient Approach for Training Time Minimization in Distributed Split Neural Network](https://ieeexplore.ieee.org/document/10315304)
 - 🛠️ **Tech Stack**: Python, PyTorch
 
+- 📄 **Paper**: [連合学習を用いたネットワークトラフィックマトリクスの効率的な復元手法](https://ipsj.ixsq.nii.ac.jp/ej/?action=pages_view_main&active_action=repository_view_main_item_detail&item_id=238848&item_no=1&page_id=13&block_id=8
+- **Award**: 支部大会奨励賞を受賞
+
 ## Skills
 
 - **Programming Languages**: Python, Java, JavaScript
