@@ -14,9 +14,9 @@
 - 🛠️ **Tech Stack**: Python, PyTorch
 
 - 📄 **Paper**: [連合学習を用いたネットワークトラフィックマトリクスの効率的な復元手法](https://ipsj.ixsq.nii.ac.jp/ej/?action=pages_view_main&active_action=repository_view_main_item_detail&item_id=238848&item_no=1&page_id=13&block_id=8)
-  - **Award**: 支部大会奨励賞を受賞
+  - **Award**: 情報処理学会関西支部大会2024 支部大会奨励賞を受賞
 - 📄 **Paper**: 連合学習を用いたネットワーク攻撃検知モデルの逐次的最適化
-  - **Award**: 優秀発表賞を受賞
+  - **Award**: 近畿大学理工マスターズ2025 優秀発表賞を受賞
 
 ## Skills
 
